@@ -5,4 +5,3 @@ langchain-openai
 langchain
 langsmith
 portkey_ai
-Authlib>=1.3.2
