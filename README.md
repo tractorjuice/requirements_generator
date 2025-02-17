@@ -2,6 +2,8 @@
 
 A Streamlit-based application that leverages AI to generate, validate, and refine software requirements specifications. The system uses your preferred LLM to create comprehensive requirements documents with continuous validation and improvement capabilities.
 
+The application can be found here: https://reqgen.streamlit.app/
+
 ## Features
 
 - **Intelligent Requirements Generation**: Automatically generates structured requirements across multiple categories:
