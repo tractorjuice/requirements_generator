@@ -34,7 +34,7 @@ if 'validation_metrics' not in st.session_state:
 # Configuration
 portkey_api_key = st.secrets["PORTKEY_API_KEY"]
 openai_api_key = st.secrets["OPENAI_API_KEY"]
-google_portkey_config = 'pc-google-5fbd96'
+google_portkey_config = st.secrets["google_portkey_config"]
 tags = ["Requirements Generator"]
 temperature = 0.7
 

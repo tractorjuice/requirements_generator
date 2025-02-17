@@ -2,9 +2,7 @@ streamlit
 langchain-community
 langchain-core
 langchain-openai
-langchain-pinecone
 langchain
-langgraph
 langsmith
 portkey_ai
 Authlib>=1.3.2
